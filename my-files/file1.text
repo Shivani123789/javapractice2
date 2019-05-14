@@ -1,0 +1,247 @@
+git -v
+sudo apt install git
+git --version
+mkdir stackroute
+cd sstackrout/
+mkdir stackroute
+cd stackroute/
+mkdir html-demo
+cd html-demo/
+git init
+git status
+git add
+git add/
+git add .
+mkdir stackroute
+cd stackroute/
+mkdir html-demo
+cd htm-demo/
+cd html-demo/
+git init
+git status
+git add .
+git status
+git config --global user.name "shivani"
+git config --global user.email"shivanipawar1995@gmail.com"
+git config --list
+git commit -m "initial commit"
+git status
+git commit -m "initial commit"
+git config --list
+git config --global user.email"shivanipawar1995@gmail.com"
+git commit -m "initial commit"
+git config --global "shivanipawar1995@gmail.com"
+git config --global user.email "shivanipawar1995@gmail.com"
+git commit -m "initial commit"
+git status
+git add .
+
+git commit -m "initial commit:
+
+exit
+
+
+git commit -m "initial commit"
+git status
+git push origin master
+git remote add origin https://github.com/Shivani123789/html-demo.git
+git remote -v
+git push origin master
+git add .
+git commit -m " new data is added"
+git push origin master
+git add .
+git commit -m " new data is added"
+git push origin master
+git add .
+git commit -m " new data is added here"
+git push origin master
+git add .
+git commit -m " new data is added here"
+git push origin master
+git add .
+git commit -m " new data is deleted from here"
+git push origin master
+git clone https://github.com/madhurih/html-demo.git
+git add .
+git init
+git status
+git init
+git status
+git clone
+git clone https://github.com/ShahinaSk/html-demo.git
+git add .
+git clone https://github.com/madhurih/html-demo.git
+git init
+git status
+git add .
+git status
+git commit -m"updated data"
+git push origin master
+git remote -v
+git remote origin add origin https://github.com/madhurih/html-demo.git
+git remote -v
+git push origin master
+git remote add origin https://github.com/madhurih/html-demo.git
+git remote -v
+git push origin master
+git pull origin master
+git fetch
+git fetch origin mater
+git fetch origin master
+git status
+git push origin master
+git pull origin branchname --allow-unrelated-histories
+git pull origin master --allow-unrelated-histories
+git status
+git add .
+git status
+git commit -m "delete ,update"
+git push origin master  
+git clone https://github.com/madhurih/html-demo.git
+git add .
+git commit -m "shivani made changes"
+git push origin master
+git clone https://github.com/madhurih/html-demo.git
+git init
+git add .
+git commit -m "sadsdsd"
+git push origin master
+git add .
+git status
+git commit -m "nes assignment is added"
+git push origin master
+git pull origin master
+git add .
+git commit -m "nes assignment is added here"
+git push origin master
+git add .
+git status
+git push origin master
+git remote add origin
+git remote add origin https://github.com/Shivani123789/assignment1.git
+git remote -v
+git commit -m "new assignment added"
+git push origin master
+Shivani123789
+git push origin master
+git remote -v
+git remote set-url origin https://github.com/Shivani123789/assignment1.git 
+git remote -v
+git add .
+git commit -m "new assignment added"
+git push origin master
+npm install http-server -g 
+sudo apt-get install nodejs
+node -v
+sudo apt-get install npm
+npm install http-server -g
+sudo npm install http-server -g
+http-server -c -0
+http-server -c -o
+http-server -c -o
+http-server -c -o
+git init
+git remote -v
+git remote add origin
+git remote add origin /home/shivani/stackroute/html-demo/404.html
+/home/shivani/stackroute/html-demo/browserconfig.xml
+/home/shivani/stackroute/html-demo/css
+/home/shivani/stackroute/html-demo/doc
+/home/shivani/stackroute/html-demo/favicon.ico
+/home/shivani/stackroute/html-demo/humans.txt
+/home/shivani/stackroute/html-demo/icon.png
+/home/shivani/stackroute/html-demo/img
+/home/shivani/stackroute/html-demo/index.html
+/home/shivani/stackroute/html-demo/js
+/home/shivani/stackroute/html-demo/LICENSE.txt
+/home/shivani/stackroute/html-demo/robots.txt
+/home/shivani/stackroute/html-demo/site.webmanifest
+/home/shivani/stackroute/html-demo/tile.png
+/home/shivani/stackroute/html-demo/tile-wide.png
+/home/shivani/stackroute/html-demo/.editorconfig
+/home/shivani/stackroute/html-demo/.git
+/home/shivani/stackroute/html-demo/.gitattributes
+/home/shivani/stackroute/html-demo/.gitignore
+git remote -v
+git add .
+git commit -m "my new website"
+git push origin master
+git remote set-url origin https://github.com/Shivani123789/my_website.git
+git remote -v
+git add .
+git commit -m "my new website"
+git push origin master
+http-server -c -o
+http-server -c -o
+http-server -c -o
+cd ..
+ls
+cd my-website/
+ls
+http-server
+http-server file:///home/shivani/stackroute/my-website/index.html
+http-server-c -o
+http-server -c -o
+http-server -c -o
+git add .
+git commit -m "my website is here"
+git push origin master
+http-server -c -o
+http-server -c -o
+git add .
+git comment -m "changes in website"
+http-server -c -o
+git add .
+git commit -m "change made"
+git push origin master
+git remote -v
+git add .
+http-server -c -o
+http-server -c -o
+http-server -c -o
+http-server -c -o
+http-server -c -o
+http-server -c -o
+git remote -v
+git add .
+git commit -m "comments are added "
+git push origin master
+http-server -c -o
+sudo su
+npm install bootstrap@4.0.0-alpha.6
+sudo su
+bower install bootstrap#v4.0.0-alpha.6
+sudo add-apt-repository ppa:linuxuprising/java
+sudo apt-get update
+sudo apt-get install oracle-java11-installer
+git remote -v
+git init
+git remote -v
+git remote add origin
+git remote -v
+git remote add originhttps://github.com/Shivani123789/responsivewebsite.git
+git remote add origin https://github.com/Shivani123789/responsivewebsite.git
+git reomte -v
+git remote -v
+git add .
+git commit -m "my bootstrap website"
+git push origin master
+git remote -v
+git add .
+git commit -m "updated website"
+git push origin master
+git remote -v
+git add .
+git commit -m "readme file is added here"
+git push remote master
+git push origin master
+git remote -v
+git init
+git remote -v
+git remote origin master
+git remote add origin   https://github.com/Shivani123789/javapractice1.git
+git remote -v
+git add .
+git commit -m "javapractice1 is added here"
+git push origin master
